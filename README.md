@@ -33,7 +33,6 @@ pip install -r requirements.txt
 MY_EMAIL=youremail@gmail.com
 MY_PASSWORD=yourpassword
 USER_EMAIL=recipient@example.com
-SEND_EMAIL=false
 
 3. Set your coordinates in main.py for example
 MY_LAT=51.5074
